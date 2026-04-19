@@ -1,4 +1,4 @@
-# MLIP Fall 2024 Lab 8 - Manage ML Projects with MLFlow
+# Lab 8 - Manage ML Projects with MLFlow
 
 In Lab8, you explore MLFlow to manage and track a small machine learning project using [MLFlow](https://mlflow.org/docs/latest/index.html).
 
