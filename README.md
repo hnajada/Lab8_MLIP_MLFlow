@@ -1,6 +1,6 @@
 # MLIP Fall 2024 Lab 8 - Manage ML Projects with MLFlow
 
-In [Lab8](https://github.com/Rajeevveera24/MLIP_MLFlow), you explore MLFlow to manage and track a small machine learning project using [MLFlow](https://mlflow.org/docs/latest/index.html).
+In Lab8, you explore MLFlow to manage and track a small machine learning project using [MLFlow](https://mlflow.org/docs/latest/index.html).
 
 MLFLow is a powerful tool that enables practices aligned with MLOps principles. MLFlow can track experiment results during development. It can perform version control on dataset and model and store versioned model objects to make your project reproducible and manageable.</br>
 
@@ -12,7 +12,7 @@ MLFLow is a powerful tool that enables practices aligned with MLOps principles. 
 
 ### Environment Setup
 
-In this step, we create a virtual environment, install MLFlow, and set up a tracking server. To begin this section, please clone [MLIP MLFlow Lab](https://github.com/Rajeevveera24/MLIP_MLFlow) and navigate to the cloned directory. Then, run the steps below to set up the environment.
+In this step, we create a virtual environment, install MLFlow, and set up a tracking server. To begin this section, please clone [MLIP MLFlow Lab](https://github.com/hnajada/Lab8_MLIP_MLFlow) and navigate to the cloned directory. Then, run the steps below to set up the environment.
 
 ```
 python -m venv lab8_env
